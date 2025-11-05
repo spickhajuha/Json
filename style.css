@@ -1,0 +1,52 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: radial-gradient(circle at center, #121212, #000);
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #ff3c00;
+  padding: 1rem;
+  font-size: 1.5rem;
+  color: #fff;
+  box-shadow: 0 0 15px #ff3c00;
+}
+
+#profiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 2rem;
+  gap: 1rem;
+}
+
+.card {
+  background: #1e1e1e;
+  padding: 1rem;
+  border-radius: 12px;
+  width: 250px;
+  box-shadow: 0 0 10px rgba(255, 60, 0, 0.3);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.card h2 {
+  margin: 0.5rem 0;
+  color: #ff3c00;
+}
+
+.card p {
+  color: #ccc;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,22 @@
+{
+  "members": [
+    {
+      "name": "Aarav Sharma",
+      "role": "Frontend Developer",
+      "bio": "Loves creating interactive web interfaces.",
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "name": "Priya Mehta",
+      "role": "UI/UX Designer",
+      "bio": "Passionate about design and user experience.",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "name": "Kunal Verma",
+      "role": "Backend Developer",
+      "bio": "Enjoys working with databases and APIs.",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg"
+    }
+  ]
+}
